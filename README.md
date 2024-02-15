@@ -1,1 +1,1 @@
-# git-command
+# journy-wirh-next-js
