@@ -1,1 +1,1 @@
-# journy-wirh-next-js
+# journy-with-next-js
